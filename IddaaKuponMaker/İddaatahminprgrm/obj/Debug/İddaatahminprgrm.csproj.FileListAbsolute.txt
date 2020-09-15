@@ -1,0 +1,32 @@
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\İddaatahminprgrm.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\İddaatahminprgrm.exe
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\İddaatahminprgrm.pdb
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\HtmlAgilityPack.dll
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\HtmlAgilityPack.pdb
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\HtmlAgilityPack.xml
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.exe
+c:\users\admin\documents\visual studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form3.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form4.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form5.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form6.resources
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\İddaatahminprgrm.exe.config
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.exe
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.pdb
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\İddaatahminprgrm.exe
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\İddaatahminprgrm.pdb
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\HtmlAgilityPack.dll
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\HtmlAgilityPack.pdb
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\bin\Debug\HtmlAgilityPack.xml
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.csprojResolveAssemblyReference.cache
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form2.resources
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form3.resources
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form4.resources
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form5.resources
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Form6.resources
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.Properties.Resources.resources
+E:\GikAA\İddaatahminprgrm\İddaatahminprgrm\obj\Debug\İddaatahminprgrm.csproj.GenerateResource.Cache
